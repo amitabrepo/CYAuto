@@ -1,0 +1,14 @@
+{
+
+  "projectId": "8vzmhi",
+  "experimentalSourceRewriting":true,
+  "env":
+  {
+      "url" :"https://rahulshettyacademy.com/angularpractice/"
+  },
+
+  
+    "testFiles": "**/*.*" 
+
+  
+}

@@ -1,0 +1,8 @@
+{
+  "specName": "TestSpec1.js",
+  "title": "An uncaught error was detected outside of a test",
+  "suiteName": "",
+  "testName": "An uncaught error was detected outside of a test",
+  "testError": "The following error originated from your test code, not from Cypress.\n\n  > process is not defined\n\nWhen Cypress detects uncaught errors originating from your test code it will automatically fail the current test.\n\nCypress could not associate this error to any specific test.\n\nWe dynamically generated a new test to display this failure.",
+  "testCommands": []
+}

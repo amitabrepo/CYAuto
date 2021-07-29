@@ -1,0 +1,8 @@
+{
+  "specName": "TestSpec1.js",
+  "title": "Visit page",
+  "suiteName": "Test Suite",
+  "testName": "Test Suite Visit page",
+  "testError": "url is not defined",
+  "testCommands": []
+}

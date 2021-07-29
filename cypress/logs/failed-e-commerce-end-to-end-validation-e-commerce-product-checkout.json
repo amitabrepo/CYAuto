@@ -1,0 +1,13 @@
+{
+  "specName": "eCommerce.feature",
+  "title": "eCommerce product checkout",
+  "suiteName": "End to End Validation",
+  "testName": "End to End Validation eCommerce product checkout",
+  "testError": "productpage is not defined",
+  "testCommands": [
+    "step **I open eCommerce page**",
+    "visit https://rahulshettyacademy.com/angularpractice/",
+    "step **I add items to cart**",
+    "then {}, function(){}"
+  ]
+}
