@@ -1,0 +1,14 @@
+{
+  
+  "dependencies": {
+    "cypress-failed-log": "^2.9.2",
+    "init": "^0.1.2"
+  },
+  "devDependencies": {
+    "cypress": "^8.0.0",
+    "cypress-cucumber-preprocessor": "^4.2.0"
+  },
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": true
+  }
+}
